@@ -1,11 +1,11 @@
-install anaconda
-create a new folder named chatbot
-inside the folder open anaconda prompt(You can do this with help of google )
+install anaconda \n
+create a new folder named chatbot \n
+inside the folder open anaconda prompt(You can do this with help of google ) \n
 
 
 type following command in order
 
-conda create --name rasa
+conda create --name rasa \n
 conda activate rasa
 conda install tensorflow
 pip install rasa

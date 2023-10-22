@@ -15,4 +15,4 @@ Open chatbot folder and paste all the files provided in git inside the botdata(u
 
 inside anaconda prompt type:
 
-rasa train
+`rasa train`

@@ -11,7 +11,7 @@ conda install tensorflow
 pip install rasa
 ```
 
-Open chatbot folder and paste all the files provided in git inside the botdata(uncompess it first) folder to chatbot folder, 
+Open chatbot folder and paste all the files provided in git inside the botdata(uncompess it first) folder, 
 
 inside anaconda prompt type:
 

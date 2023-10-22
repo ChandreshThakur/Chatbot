@@ -1,5 +1,5 @@
-install anaconda 
-create a new folder named chatbot 
+install anaconda, 
+create a new folder named chatbot,  
 inside the folder open anaconda prompt(You can do this with help of google ) 
 
 
@@ -11,7 +11,7 @@ conda install tensorflow
 pip install rasa
 ```
 
-Open chatbot folder and paste all the files provided in git inside the botdata(uncompess it first) folder to chatbot folder
+Open chatbot folder and paste all the files provided in git inside the botdata(uncompess it first) folder to chatbot folder, 
 
 inside anaconda prompt type:
 

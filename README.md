@@ -18,11 +18,12 @@ Open chatbot folder and paste all the files provided in git inside the botdata(u
 inside command prompt type:
 
 `rasa train`
-In another command prompt tab type:
 
+In another command prompt tab type:
+`conda activate rasa`
 `rasa run actions`
 
-Now you can use chatbot in command prompt itself by typing:
+Now you can use chatbot in command prompt itself by typing(in previously opened tab):
 
 `rasa shell`
 

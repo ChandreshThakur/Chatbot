@@ -22,3 +22,7 @@ inside command prompt type:
 Now you can use chatbot in command prompt itself by typing:
 
 `rasa shell`
+
+If you want to train my model further and know it's working just type 
+
+`rasa interactive`

@@ -13,7 +13,7 @@ pip install rasa
 ```
 In pip instal rasa they will ask you for directory give the path to your chatbot folder
 
-Open chatbot folder and paste all the files provided in git inside the botdata folder, also while pasting be sure to replace files and folder instead of seperatly pasting it
+Open chatbot folder and paste all the files provided in git inside the botdata folder(download raw file by option on top right conner), also while pasting be sure to replace files and folder instead of seperatly pasting it
 
 inside command prompt type:
 

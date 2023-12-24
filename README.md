@@ -31,5 +31,4 @@ If you want to train my model further and know it's working just type
 
 `rasa interactive`
 
-Note: due to some bug(which I am not able to figure out and wasted extra 4 hours in it) bot is only able to answer events  realted information
-but i request you to go through actions.py to see code and dictionary training data
+

@@ -1,3 +1,7 @@
+# Chatbot 
+- This repo contains instruction on how to implement a chatbot, trained by me
+
+### Implementation instructions:
 install anaconda,(Be sure to include conda in path directory) 
 create a new folder named chatbot,  
 inside the folder open command prompt 

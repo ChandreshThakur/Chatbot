@@ -1,5 +1,6 @@
 # Chatbot 
 - This repo contains instruction on how to implement a chatbot, trained by me
+- The bot provides information based on my institute ( IIT BOMBAY) on three domians: courses, faculty and events
 
 ### Implementation instructions:
 install anaconda,(Be sure to include conda in path directory) 
